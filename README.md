@@ -13,10 +13,12 @@
 - 支持在根目录下增加关于页面。（感谢 [@renbaoshuo](https://github.com/renbaoshuo)） **格式 `https://example.com/about/`*
 - 自定义 CSS 样式。
 - 文章搜索功能。（感谢 [@uiYzzi](https://github.com/uiYzzi)）
+- 支持valine评论、统计
 
 ## 预览
 
-示例站点：<https://imhanjie.com/>
+原始示例站点：<https://imhanjie.com/>
+微调后的示例站点：<https://daning.netlify.app/>
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1gaqcu0b03bj31vh0u0avx.jpg)
 
@@ -30,14 +32,6 @@
 使用 `git clone` 本项目到 Gridea 站点源文件路径的 `themes` 目录内，或者前往 [release](https://github.com/imhanjie/gridea-theme-pure/releases) 页面下载最新的 release 解压到 Gridea 站点源文件路径的 `themes` 目录内，然后**重启  Gridea** 即可。
 
 >  Gridea 站点源文件路径：可在 Gridea 客户端设置页面查看。
-
-### 注意事项
-
-#### 友链功能
-
-在主题自定义配置里面配置好友链信息后还需要在 Gridea 配置友链的入口，点击 Gridea 菜单选项卡中右上角加号添加友链菜单，配置如下：
-
-<img src="https://tva1.sinaimg.cn/large/007S8ZIlly1ggu1jtta50j30m60kgjs2.jpg" width="350px" />
 
 #### 关于页面
 
