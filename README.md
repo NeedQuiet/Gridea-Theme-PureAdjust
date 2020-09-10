@@ -22,8 +22,6 @@
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1gaqcutvj86j32vl0u04e4.jpg)
 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1gaqcvc3pjkj32vl0u0aq5.jpg)
-
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1gaqcvhp5mdj32vl0u04cw.jpg)
 
 
