@@ -197,6 +197,12 @@ ul {
   flex-direction: column;
 }
 
+@media(max-width:1199px) {
+  .toc-container {
+      display: none
+  }
+}
+
 @import "./components/header.less";
 @import "./components/home.less";
 @import "./components/post.less";
@@ -209,3 +215,4 @@ ul {
 @import "./components/search.less";
 @import "./lib/highlight.less";
 @import "./lib/katex.less";
+@import "./components/toc.less";
