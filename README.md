@@ -1,7 +1,6 @@
 ## 说明
 
 >基于Pure做了一些微调，原文：<https://github.com/getgridea/gridea-theme-starter><br>
-微调后的示例站点：<https://daning.netlify.app/>
 
 - 修改：
   1. 关于页面修改
