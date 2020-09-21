@@ -23,8 +23,8 @@
 
 ## 预览
 
-原始示例站点：<https://imhanjie.com/>
-微调后的示例站点：<https://daning.netlify.app/>
+示例站点：<https://imhanjie.com/>
+
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1gaqcu0b03bj31vh0u0avx.jpg)
 
